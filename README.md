@@ -45,8 +45,11 @@
 body
 footer
  ```
-
-<br>
+  ### 문서별 commit message structure
+ - TIL 작성 문서
+    - `:memo: Docs : [TIL] 날짜(2022-09-18) 제목`
+- README
+    - `:memo: Docs : [README] 제목`
 
 ### Type, gitmoji
 
