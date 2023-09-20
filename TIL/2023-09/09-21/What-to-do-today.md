@@ -1,0 +1,7 @@
+- DB
+  - [ ] SQL 실습 진행
+  - [ ] 진행한 실습 문서화
+- Network
+  - [ ] Application Layer 개념 공부
+- [ ] 영어 회화 수업 듣기
+- [ ] TIL 작성하기 
