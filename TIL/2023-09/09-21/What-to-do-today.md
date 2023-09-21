@@ -1,4 +1,4 @@
-###  What to do today
+###  🤔 What to do today
 - ***[ DB ]***
   - [x] SQL 실습 진행
   - [x] 진행한 실습 문서화
