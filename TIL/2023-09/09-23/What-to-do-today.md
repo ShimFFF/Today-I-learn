@@ -20,8 +20,9 @@
 
 ###  🤔 What to do today
 - ***[ DB ]***
-  - [ ] SQL 실습 진행
-  - [ ] 진행한 실습 문서화
+  - [x] SQL 문제 풀기
+    - 3문제 품
+    - [Github - Database System Concept 7th Problem Solving](https://github.com/ShimFFF/Database_System_Concept-_7th_Problem_Solving/blob/main/Note/Chapter3/3.1.md)
 
  - ***[ 프로젝트 ]***
    - [ ] 묘집사 리뉴얼, 레이아웃 만들기
