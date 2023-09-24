@@ -19,9 +19,11 @@
 
 - ***[ 알고리즘 ]***
   - Distinct Subsequences 풀기
+    - [Distinct Subsequences](https://github.com/ShimFFF/Algorithm/tree/main/code/Distinct%20Subsequences)
 
 - Velog 쓰기
   - Distinct Subsequences 풀이
+    - [Distinct Subsequences 문제 풀기](https://velog.io/@ssw123/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Dynamic-ProgramingDP%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-Distinct-Subsequences-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0)
 
 - TIL 쓰기
   - 오늘 푼 알고리즘에 대해..!
