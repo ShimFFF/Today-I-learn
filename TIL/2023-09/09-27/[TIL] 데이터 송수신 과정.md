@@ -1,4 +1,4 @@
-# [TIL] 당근 마켓 개발자와 만나다.
+# [TIL] 클라이언트와 서버의 데이터 송수신
 > velog-[[네트워크]-서버와 클라이언트가 프로세스로써 어떻게 데이터를 주고 받는가?](https://velog.io/@ssw123/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%9C%EB%B2%84%EC%99%80-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A1%9C%EC%8D%A8-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A3%BC%EA%B3%A0-%EB%B0%9B%EB%8A%94%EA%B0%80)
 
 ##  😃 잡담
