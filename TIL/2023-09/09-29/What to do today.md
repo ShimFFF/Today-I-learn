@@ -19,7 +19,7 @@
   - [ ] w3, w4 보고서 쓰기 (Due : 10-08)
 
 - ***[ DB ]***
-  - [ ] SQL 문제 풀기 (기본 문법) (Due : 10-01)
+  - [x] SQL 문제 풀기 (기본 문법) (Due : 10-01)
   - [ ] SQL 문제 풀기 (관계 형성) (Due : 10-08)
   - [ ] SQL (w4) 강의 듣기
   - [ ] SQL (w5) 강의 듣기
@@ -29,7 +29,7 @@
   - [ ] Greedy (part2) 강의 듣기
 
 - **[ 문제해결기법 TA ]**
-  - [ ] [0921] In-Class-disussion 채점 (Due : 10-01)
+  - [x] [0921] In-Class-disussion 채점 (Due : 10-01)
 
 - **[ 네트워크 ]**
   - [ ] Summarize HTTP 3.0 and QUIC (Due : 10-05)
