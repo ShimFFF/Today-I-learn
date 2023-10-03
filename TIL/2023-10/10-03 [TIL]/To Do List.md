@@ -23,19 +23,20 @@
 
 - ***[ UMC ]***
   - [ ] Server w2 스터디 준비 (Due : 10-05)
+    - [x] AWS 실습
 
 - ***[ 스터디 (network, database)]***
-  - [ ] 스터디 진행하기 (pm 3~6)
+  - [x] 스터디 진행하기 (pm 3~6)
   - [ ] w3, w4 보고서 쓰기 (Due : 10-08)
 
 - ***[ DB ]***
   - [ ] SQL 문제 풀기 (관계 형성) (Due : 10-08)
 
 - ***[ 알고리즘 ]***
-  - [ ] Smart Elephant 솔루션 찾기
-  - [ ] The Cheapest Way 솔루션 찾기
-  - [ ] Jewel Box 솔루션 찾기
-  - [ ] Thanksgiving Trip 솔루션 찾기
+  - [x] Smart Elephant 솔루션 찾기
+  - [x] The Cheapest Way 솔루션 찾기
+  - [x] Jewel Box 솔루션 찾기
+  - [x] Thanksgiving Trip 솔루션 찾기
 
 - ***[ 묘집사 (플젝) ]***
   - [ ] app bundle 준비하기
