@@ -7,12 +7,14 @@
 
 - ***[ 스터디 (network, database)]***
   - 스터디 진행하기 (pm 3~6)
+  - [Git-David_BeCom](https://github.com/orgs/Poin-Book/teams/david_becom)
 
 - ***[ 알고리즘 ]***
   - Smart Elephant 솔루션 찾기
   - The Cheapest Way 솔루션 찾기
   - Jewel Box 솔루션 찾기
   - Thanksgiving Trip 솔루션 찾기
+  - [Git-Algorithm](https://github.com/ShimFFF/Algorithm/tree/main/code)
   
 - TIL 쓰기
     
