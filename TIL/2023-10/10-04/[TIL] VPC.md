@@ -1,12 +1,12 @@
 # [TIL] VPC
->[velog]-[[네트워크]-AWS의 VPC에 대해](https://velog.io/@ssw123/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-AWS%EC%9D%98-VPC%EC%97%90-%EB%8C%80%ED%95%B4)
+>[velog] - [[네트워크]-AWS의 VPC에 대해](https://velog.io/@ssw123/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-AWS%EC%9D%98-VPC%EC%97%90-%EB%8C%80%ED%95%B4)
 
 ##  😃 잡담
 AWS에 대해서 잘 알지 몰랐기에 VPC 정리에 대해 좀 공을 들였다. VPC를 제대로 이해하려면 서브네팅, LAN, 사설 IP 등 cs 지식에 대해서도 알아야 했는데, 이런 것들도 하나 하나 다 찾아가면서 했다.<br>
 개념을 하나 하나 이해하기 보다는 전체적인 흐름을 이해하는 것에 중점을 뒀다. 그것이 기억을 하기도 편하고 전체적인 흐름을 이해하는 것이 진정하게 이해를 했다라고 생각하기도 때문이다. 밑에 오늘 공부한 것에는 VPC에 대한 것이 왜 그런 것이 되는지에 대해 다른 지식과 연관지어서 써야겠다.
 
 ## 📄 배운 내용
-[velog]-[[네트워크]-AWS의 VPC에 대해](https://velog.io/@ssw123/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-AWS%EC%9D%98-VPC%EC%97%90-%EB%8C%80%ED%95%B4)
+[velog] - [[네트워크]-AWS의 VPC에 대해](https://velog.io/@ssw123/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-AWS%EC%9D%98-VPC%EC%97%90-%EB%8C%80%ED%95%B4)
 
 
 -  **vpc 자체에서 서브넷을 나눠서 사용한다**<br>
