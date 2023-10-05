@@ -25,8 +25,8 @@
 ###  🤔 To Do List
 
 - ***[ UMC ]***
-  - [ ] Server w2 스터디 준비 (Due : 10-05)
-    - [ ] 중요 내용 정리
+  - [x] Server w2 스터디 준비 (Due : 10-05)
+    - [x] 중요 내용 정리
 
 - ***[ 스터디 (network, database)]***
   - [ ] w3, w4 보고서 쓰기 (Due : 10-08)
@@ -35,6 +35,7 @@
   - [ ] SQL 문제 풀기 (관계 형성) (Due : 10-08)
   - [ ] SQL 문법 정리
   - [ ] DB 이론 정리
+  - [ ] JDBC 공부
 
 - ***[ 알고리즘 ]***
   - [ ] divide and conquer 정리
@@ -46,7 +47,7 @@
     - 카카오 로그인 이슈 해결 후 준비
 
 - **[ 네트워크 ]**
-  - [ ] Summarize HTTP 3.0 and QUIC (Due : 10-05)
+  - [x] Summarize HTTP 3.0 and QUIC (Due : 10-05)
 
 - **[ 모의 면접 컨설팅 ]**
   - [x] 생기부 읽어 보기
