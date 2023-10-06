@@ -10,8 +10,9 @@
 
 - ***[ UMC ]***
   - [ ] Server w3 스터디 준비
-    - [ ] Web Server & Web Application Server(WAS), Reverse Proxy 이론 (Due : 10-13)
-    - [ ] 정적콘텐츠 호스팅, 리버스 프록시 설정 실습 (Due : 10-13)
+    - [x] Web Server & Web Application Server(WAS), Reverse Proxy 이론 (Due : 10-13)
+      - Reverse Proxy에 대한 정리는 미완
+    - [x] 정적콘텐츠 호스팅, 리버스 프록시 설정 실습 (Due : 10-13)
 
 - ***[ 스터디 (network, database)]***
   - [ ] w3, w4 보고서 쓰기 (Due : 10-08)
