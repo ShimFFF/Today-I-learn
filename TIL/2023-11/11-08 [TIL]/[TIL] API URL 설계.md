@@ -1,6 +1,20 @@
 # [TIL] API URL 설계
 
 ### 목차
+- [\[TIL\] API URL 설계](#til-api-url-설계)
+    - [목차](#목차)
+  - [😃 잡담](#-잡담)
+  - [📄 배운 내용](#-배운-내용)
+    - [API 설계 시 필요한 것](#api-설계-시-필요한-것)
+  - [API Endpoint](#api-endpoint)
+    - [HTTP 메소드](#http-메소드)
+    - [URL](#url)
+    - [💡 RESTful한 API의 Endpoint 규칙](#-restful한-api의-endpoint-규칙)
+  - [세부적 API 설계](#세부적-api-설계)
+    - [Path variable](#path-variable)
+    - [Query String](#query-string)
+    - [Request  Body](#request--body)
+    - [Request Header](#request-header)
 
 ##  😃 잡담
 오늘은 서버 스터디를 위해 API 설계에 대해 공부 했다.<br>
@@ -36,7 +50,7 @@ REST API에서의 endpoint
 
 ### URL
 
-### 💡 **RESTful한 API의 Endpoint 규칙**
+### 💡 RESTful한 API의 Endpoint 규칙
 
 - URL에 동사가 포함되면 안됨
 - URL에 단어의 구분이 필요한 경우 -(하이픈)을 사용
