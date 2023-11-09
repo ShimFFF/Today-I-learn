@@ -1,0 +1,41 @@
+### 😮What did you do during this period
+
+- ***[ UMC ]***
+  - Server w4 스터디 (10-21)
+    - 각 스터디원의 ERD에 대한 리뷰 진행
+
+- ***[ 네트워크 ]***
+  - Network Layer 공부
+    - routing, forwarding
+    - datagram
+    - router architecture
+    - forwarding table
+    - prefix matching
+    - hierachical addressing
+    - switching fabrics
+    - queuing
+    - CIDR
+    - IPv4, IPv6
+    - tunneling, encapsulation
+    - middleboxes
+      - NAT
+      -firewalls
+
+- ***[DB]***
+  - mySQL 공부 복습
+    - [노션 정리본](https://www.notion.so/SQL-mysql-3ae02e46b5c145529a123bc6562d7f05)
+  - DB 이론 복습
+    - [노션 정리본](https://www.notion.so/DataBase-16c2f100a13240a2891448a656138830)
+
+
+- ***[ 알고리즘 ]***
+  - Graph Algorithm
+    - Dijkstra    
+    - Prim
+    - Pruskal
+    - Bellman-Ford
+    - Flotd-Warshall
+  - 정수론
+    - GCD
+    - Euclid
+    - Extended Euclid
