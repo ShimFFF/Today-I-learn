@@ -1,4 +1,6 @@
 ### 😮What I did yeaterday
+- 당근 마켓 멘토링
+- 일
 
 ###  🤔 To Do List
 
